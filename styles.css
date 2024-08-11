@@ -1,0 +1,23 @@
+.h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.desc {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.ingredient {
+    font-size: 20px;
+
+}
+
+.steps {
+    font-size: 20px;
+    
+}
